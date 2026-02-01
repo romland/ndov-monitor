@@ -4,7 +4,7 @@ A high-density, real-time dashboard for monitoring public transport vehicles acr
 
 This application connects directly to the **NDOV Loket** ZeroMQ streams, processes XML messages for Buses, Trams, Metros (KV6), and Trains (NS Interface 5), and visualizes them in a live data grid.
 
-<img src=".github/ndov-monitor.png">
+<img src=".github/ndov-monitor.png" width="75%"></img>
 
 ### WARNING: This is 90% AI slop.
 
