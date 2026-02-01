@@ -96,6 +96,10 @@ const ZMQ_SOURCES = {
 5. **Broadcast:** Updates are pushed to the web client via `socket.io`.
 6. **Render:** The browser updates a virtualized-style DOM table, using CSS animations to highlight changing data.
 
+## Links
+https://data.ndovloket.nl/haltes/
+
+
 ## License
 
 [MIT](https://www.google.com/search?q=LICENSE)
